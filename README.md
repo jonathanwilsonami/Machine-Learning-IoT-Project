@@ -4,10 +4,11 @@ This project is for the purpose of exploring and innovating with everything I ha
 ## Past Projects
 * Machine Learning
   * Regression Modeling 
-  1. [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
+   1. [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
+   2. [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
+   3. [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
   2.
 * Web Development
-  * Personal Website
-  1. Network Information Tool (NIT) -   
-  2. http://jonathanwil.com  
+  * [Personal Website] (https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) - http://jonathanwil.com  
+  * Network Information Tool (NIT) - 
   
