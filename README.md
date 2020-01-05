@@ -18,13 +18,13 @@ This project is for the purpose of exploring and innovating with everything I ha
   
 ## Current Learning objectives
 
-* IoT - Start with simple Arduino projects then begin experimenting and exploring with machine learning on IoT devices.    
-* Electronics - Gain a basic understanding of how to optimize and engineer for Arduino prototyping.  
-* AWS - Provide the ability to rapidly scale using the cloud.  
-* Containerization - For running and deploying multiple distributed applications. 
-* Mobile app development - Manage the application/s from a mobile device. 
-* Security essentials - Ensure that the device/s and software are locked down and are not vulnerable to hackers.
-* Full stack web development - Create a web UI for this project. 
+* **IoT** - Start with simple Arduino projects then begin experimenting and exploring with machine learning on IoT devices.    
+* **Electronics** - Gain a basic understanding of how to optimize and engineer for Arduino prototyping.  
+* **AWS** - Provide the ability to rapidly scale using the cloud.  
+* **Containerization** - For running and deploying multiple distributed applications. 
+* **Mobile app development** - Manage the application/s from a mobile device. 
+* **Security essentials** - Ensure that the device/s and software are locked down and are not vulnerable to hackers.
+* **Full stack web development** - Create a web UI for this project. 
 * Open and curious mind for more areas of learning as the need arises. 
 
 ## Project Ideas
