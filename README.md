@@ -4,12 +4,12 @@ This project is for the purpose of exploring and innovating with everything I ha
 ## Past Projects
 * Machine Learning
 
-  * Regression Modeling 
+  * Regression Modeling (Python) 
    1. [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
    2. [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
    3. [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
    
-  *  Bayesian Statistics
+  *  Bayesian Statistics (R)
    4. [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
    
 * Web and API Development
