@@ -30,7 +30,7 @@ This project is for the purpose of exploring and innovating with everything I ha
 * **Electronics** - Gain a basic understanding of how to optimize and engineer for Arduino prototyping.  
 * **AWS** - Provide the ability to rapidly scale and analyze data using cloud compute.  
 * **Containerization** - For running and deploying multiple distributed applications. 
-* **Mobile app development** - Manage the application/s from a mobile device. 
+* **Mobile app development** - Manage the application/s from a mobile device. Looking into Flutter to build an app on both Apple and Android platforms so there is no need to code for two different platforms.  
 * **Security essentials** - Ensure that the device/s and software are locked down and are not vulnerable to hackers.
 * **Full stack web development** - Create a web UI for this project. 
 * Open and curious mind for more areas of learning as the need arises. 
