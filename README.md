@@ -9,6 +9,6 @@ This project is for the purpose of exploring and innovating with everything I ha
    3. [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
   2.
 * Web Development
-  * [Personal Website] (https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) - http://jonathanwil.com  
+  * [Personal Website](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) - http://jonathanwil.com  
   * Network Information Tool (NIT) - 
   
