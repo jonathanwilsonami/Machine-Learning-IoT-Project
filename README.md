@@ -7,8 +7,9 @@ This project is for the purpose of exploring and innovating with everything I ha
    1. [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
    2. [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
    3. [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
-  2.
+   4. [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
+   
 * Web Development
   * [Personal Website](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) - http://jonathanwil.com  
-  * Network Information Tool (NIT) - 
+  * Network Information Tool (NIT) - This project is
   
