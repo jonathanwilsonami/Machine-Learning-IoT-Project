@@ -2,18 +2,13 @@
 This project is for the purpose of exploring and innovating with everything I have been learning or am currently learning in the areas of Machine Learning, Data Science, Computer Science, Software Engineering, and IoT. The goal is to create a prototype that can potentially create value by solving a real world problem.
 
 ## Past Projects
-* Machine Learning and Data Science
-
-  * Regression Modeling (Python) 
-   1. [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
-   2. [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
-   3. [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
-   
-  *  Bayesian Statistics (R)
-   4. [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf)
-   * Other 
-   5. [SAS Projects](https://github.com/jonwilami323/SAS_Projects)
-   6. [R Projects](https://github.com/jonwilami323/R_Projects) 
+* Machine Learning and Data Science 
+  * [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
+  * [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
+  * [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
+  * [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (R)
+  * [SAS Projects](https://github.com/jonwilami323/SAS_Projects)
+  * [R Projects](https://github.com/jonwilami323/R_Projects) 
    
 * Web and API Development
   * [Personal Website](https://github.com/jonwilami323/Personal-Website) - http://jonathanwil.com This is still in development and needs some work. 
