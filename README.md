@@ -18,10 +18,10 @@ This project is for the purpose of exploring and innovating with everything I ha
   * [Personal Website](https://github.com/jonwilami323/Personal-Website) - http://jonathanwil.com This is still in development and needs some work. 
   * Network Information Tool (NIT) - This project is private, sensitive, and the property of the BYU Office of Information Technology. Basic description: As a full stack software developer I helped develop a set of REST APIs and web application to aid various groups to monitor and manage the network infrastructure of BYU. The BYU network has thousands of devices from routers to switches that require monitoring and maintenance. This app gets access to data and software on these devices and provides a way for them to be managed and provide metrics on how the network is being used. The APIs do all the heavy lifting while the web application provides a UI for engineers and technicians to facilitate their day-to-day tasks. This was a 3-year endeavor that gave me a wealth of experience in many areas of engineering and development. Technologies, languages, and principles used: FLASK RESTful framework, Vue.JS front end framework, JavaScript, Python, various flavors of SQL, Elasticsearch, Linux scripting, HTML, CSS, AWS, Git, Agile Development, Network protocols such as SNMP, SSH, HTTP, TCP/IP, UDP, and SSL. 
   
-* Databases
+* Databases (MySQL)
   * [Student Grades Class Project](https://github.com/jonwilami323/MySQL-Student-Grades-Project)
   
-* Linux and Bash
+* Linux and Bash (Bash) 
   * [Student Grades Class Project](https://github.com/jonwilami323/BashStudentGradesProject)
   
 ## Current Learning objectives
