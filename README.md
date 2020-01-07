@@ -5,7 +5,6 @@ This project is for the purpose of exploring and innovating with everything I ha
 * Domain Knowledge
   * Construction - Building homes and heavy civil
   * Network Engineering
-  * Some Cyber Security 
 * Machine Learning and Data Science 
   * [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
   * [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
