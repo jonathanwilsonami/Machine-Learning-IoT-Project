@@ -44,4 +44,4 @@ This project is for the purpose of exploring and innovating with everything I ha
 
 ## Project Plan
 
-![Flow Chart](https://github.com/jonwilami323/Machine-Learning-IoT-Project/blob/master/images/Machine%20Learning%20Project.png)
+![Flow Chart](https://github.com/jonwilami323/Machine-Learning-IoT-Project/blob/master/images/MachineLearningProject.png)
