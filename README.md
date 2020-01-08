@@ -42,6 +42,7 @@ This project is for the purpose of exploring and innovating with everything I ha
 ## Project Ideas
 * Car security system powered by small solar panel
 * House heat detection system for monitoring home power efficiency
+* More pending...
 
 ## Project Plan 
 (This is NOT finalized. I intend on adapting this as I progress forward) 
