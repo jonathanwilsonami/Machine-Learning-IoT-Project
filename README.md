@@ -6,10 +6,10 @@ This project is for the purpose of exploring and innovating with everything I ha
   * Construction - Building homes and heavy civil
   * Network Engineering
 * Machine Learning and Data Science 
-  * [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
-  * [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
-  * [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (Python) 
-  * [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) (R)
+  * [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) Analysis on air pollution at an intersection (Python) 
+  * [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/MultipleLinearRegressionOnFarmAppraisals.pdf) Analysis on farm appraisals (Python) 
+  * [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/AnalysisOnPineBeetleDamageInColorado.pdf) Analysis on pine beetle infestations in Colorado (Python) 
+  * [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/BayesianAnalysisOnSecurityData.pdf) (R)
   * [SAS Projects](https://github.com/jonwilami323/SAS_Projects)
   * [R Projects](https://github.com/jonwilami323/R_Projects) 
    
