@@ -19,9 +19,11 @@ This project is for the purpose of exploring and innovating with everything I ha
   
 * Databases (MySQL)
   * [Student Grades Class Project](https://github.com/jonwilami323/MySQL-Student-Grades-Project)
+  * Previous work on NIT
   
 * Linux and Bash (Bash) 
   * [Student Grades Class Project](https://github.com/jonwilami323/BashStudentGradesProject)
+  * Previous work on NIT
   
 ## Current Learning objectives
 
