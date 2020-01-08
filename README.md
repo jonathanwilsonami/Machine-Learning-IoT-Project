@@ -31,12 +31,15 @@ This project is for the purpose of exploring and innovating with everything I ha
 
 * **IoT** - Start with simple Arduino projects then begin experimenting and exploring with machine learning on IoT devices.    
 * **Electronics** - Gain a basic understanding of how to optimize and engineer for Arduino prototyping.  
-* **AWS** - Provide the ability to rapidly scale and analyze data using cloud compute.  
+* **AWS** - Provide the ability to rapidly scale and analyze data using cloud compute. Explore other AWS technologies the enhance scalability and efficiency.  
 * **Containerization** - For running and deploying multiple distributed applications. 
 * **Mobile app development** - Manage the application/s from a mobile device. Looking into Flutter to build an app on both Apple and Android platforms so there is no need to code for two different platforms.  
 * **Security essentials** - Ensure that the device/s and software are locked down and are not vulnerable to hackers.
 * **Full stack web development** - Create a web UI for this project. 
 * **Machine Learning** - Continue learning machine learning. 
+* **Continuous Integration and Test Driven Development** - Use test driven methodologies and CI for new deployments. 
+* **Data Engineering and Databases** - Continue learning and exploring better methods of storing and retrieving data.
+* **Computational Mathematics and Algorithms** - Continue learning and exploring better methods for computation.
 * Open and curious mind for more areas of learning as the need arises. 
 
 ## Project Ideas
