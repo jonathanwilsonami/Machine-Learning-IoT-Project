@@ -11,7 +11,7 @@ This project is for the purpose of exploring and innovating with everything I ha
   * [Simple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/RegressionAnalysisOnCarPollutionAtUniversityIntersection.pdf) Analysis on air pollution at an intersection (Python) 
   * [Multiple Linear Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/MultipleLinearRegressionOnFarmAppraisals.pdf) Analysis on farm appraisals (Python) 
   * [Logistic Regression](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/AnalysisOnPineBeetleDamageInColorado.pdf) Analysis on pine beetle infestations in Colorado (Python) 
-  * [Bayesian Analysis of cyber security data using the metropolis random walk algorithm](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/BayesianAnalysisOnSecurityData.pdf) (R)
+  * [Bayesian Analysis for the BYU Cyber Security Team](https://github.com/jonwilami323/Technical-Reports/blob/master/Statistical-Reports/BayesianAnalysisOnSecurityData.pdf) (R)
   * [SAS Projects](https://github.com/jonwilami323/SAS_Projects)
   * [R Projects](https://github.com/jonwilami323/R_Projects) 
    
@@ -41,7 +41,7 @@ This project is for the purpose of exploring and innovating with everything I ha
 
 ## Project Ideas
 * Car security system powered by small solar panel
-* House heat detection system for monitoring home power efficiency
+* Infrared sensors for monitoring home heating and power usage to discover ways to reduce energy costs
 * More pending...
 
 ## Project Plan 
