@@ -1,4 +1,5 @@
-# Machine-Learning-IoT-Project (currently under development)
+# Machine-Learning-IoT-Project 
+(currently under development)
 This project is for the purpose of exploring and innovating with everything I have been learning or am currently learning in the areas of Machine Learning, Data Science, Computer Science, Software Engineering, and IoT. The goal is to create a prototype that can potentially create value by solving a real world problem.
 
 ![Arduino](https://github.com/jonwilami323/Machine-Learning-IoT-Project/blob/master/images/Arduino.jpg)
@@ -43,6 +44,7 @@ This project is for the purpose of exploring and innovating with everything I ha
 * Car security system powered by small solar panel
 * House heat detection system for monitoring home power efficiency
 
-## Project Plan (This is NOT finalized. I intend on adapting this as I progress forward) 
+## Project Plan 
+(This is NOT finalized. I intend on adapting this as I progress forward) 
 
 ![Flow Chart](https://github.com/jonwilami323/Machine-Learning-IoT-Project/blob/master/images/MachineLearningProject.png)
